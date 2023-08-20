@@ -1,18 +1,29 @@
-import React from 'react';
+import React, {Suspense} from "react";
 import { ThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import RemoteHeader from './components/RemoteHeader';
-import RemoteProduct from './components/RemoteProduct';
 import theme from "./theme/main";
 
+import ErrorBoundary from "./ErrorBoundary"
+
+const RemoteHeader = React.lazy(() => import("./components/RemoteHeader"));
+const RemoteProduct = React.lazy(() => import("./components/RemoteProduct"));
+
 export default () => {
-    return <>
-    <h1>Container Content</h1>
-    <hr></hr>
-    <ThemeProvider theme={theme}>
+  return (
+    <>
+      <ThemeProvider theme={theme}>
         <CssBaseline />
-        <RemoteHeader />
-        <RemoteProduct />
+        <ErrorBoundary>
+          <Suspense fallback={<div>Carregando...</div>}>
+            <RemoteHeader />
+          </Suspense>
+        </ErrorBoundary>
+        <ErrorBoundary>
+          <Suspense fallback={<div>Carregando...</div>}>
+            <RemoteProduct />
+          </Suspense>
+        </ErrorBoundary>
       </ThemeProvider>
     </>
+  );
 };
