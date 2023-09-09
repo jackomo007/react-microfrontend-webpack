@@ -1,0 +1,187 @@
+<mxfile host="65bd71144e">
+    <diagram id="tdyZNh0oF8S9_RCw0g2v" name="Page-1">
+        <mxGraphModel dx="916" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="97" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="230" width="145" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="230" width="140" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="230" width="157.5" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="372.5" y="80" width="157.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="247.5" y="80" width="112.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#FFFFFF;fillColor=#7D7D7D;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="80" width="222.5" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="MANAGE MFE STATE BY API CALLS WITH CONTEXT PROVIDER AND REACT QUERY" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="137.5" y="10" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="17.5" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="97.5" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="STAGE 1: PAGE IS OPEN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="17.5" y="90" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="CONTAINER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="17.5" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="97.5" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Open Home page&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="22.5" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Load menu to user unauthenticated&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="102.5" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Make request to load the products&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="185" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="STAGE 2: USER MAKE LOGIN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="90" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="CONTAINER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Open Login Page&amp;nbsp; and save User date in state&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="STAGE 3: USER IS AUTHENTICATED" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="90" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="140" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Load items menu to authenticated user and user info&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="405" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Open permission to products actions (like, add to cart)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="165" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="STAGE 4: USER&amp;nbsp; SEARCH A PRODUCT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="240" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="310" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="95" y="310" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="15" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="95" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Set state value &quot;activeSearch&quot; to true and&amp;nbsp; set the value&amp;nbsp; of the search&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="17.5" y="312.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Listen if the activeSearch is true to make the request to /Product with the search value&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="97.5" y="312.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="STAGE 4.1: USER&amp;nbsp; SEARCH A PRODUCT &quot;SUCCESS&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="240" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="185" y="310" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="265" y="307.5" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="185" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="265" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Set state value &quot;activeSearch&quot; to FALSE and&amp;nbsp; CLEAN the value&amp;nbsp; of the search&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="187.5" y="312.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Update the list of Products in the page&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="267.5" y="310" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="STAGE 4.2: USER&amp;nbsp; SEARCH A PRODUCT &quot;FAIL&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="352.5" y="240" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="310" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="421" y="310" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="HEADER" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="PRODUCTS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
+                    <mxGeometry x="421" y="290" width="40" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Set state value &quot;activeSearch&quot; to FALSE and&amp;nbsp; CLEAN the value&amp;nbsp; of the search&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="352.5" y="312.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;span style=&quot;font-size: 3px;&quot;&gt;Show a Toast to inform that the action have an error and do NOT UPDATE the list of products&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="423.5" y="312.5" width="45" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;RESPONSABILITIES &lt;/font&gt;MFE:&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;CONTAINER&lt;/font&gt;&lt;/b&gt;: AUTH STATE (LOGIN, USER, LOGOUT), MANAGE MFE STATE&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#151414&quot;&gt;HEADER&lt;/font&gt;&lt;/b&gt;: SEARCH OF PRODUCT, RENDER USER INFO AND MANAGE ITEMS MENU&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#100f0f&quot;&gt;PRODUCTS&lt;/font&gt;&lt;/b&gt;: RENDER PRODUCTS INFORMATIONS, LIKES, SHARE&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=3;fillColor=#7D7D7D;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="30" width="240" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="CONTRACT" style="swimlane;startSize=10;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;fontSize=10;labelBackgroundColor=none;fontColor=#100f0f;fillColor=#7D7D7D;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="230" width="340" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Container&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;user&lt;/b&gt;: User&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&lt;b&gt;searchEnabled&lt;/b&gt;: boolean&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;searchValue&lt;/b&gt;: string&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=9;fontColor=#100f0f;fillColor=#7D7D7D;" parent="77" vertex="1">
+                    <mxGeometry x="125" y="50" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Remote Header:&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;user&lt;/b&gt;: &lt;u&gt;&lt;b&gt;User&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;searchEnabled&lt;/b&gt;: boolean&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- &lt;b&gt;searchValue&lt;/b&gt;: string&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- menuList: Array&amp;lt;Menu&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=9;fontColor=#100f0f;fillColor=#7D7D7D;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="140" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=9;fontColor=#100f0f;" parent="77" source="78" target="79" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;b style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Remote Product:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- &lt;b&gt;searchEnabled&lt;/b&gt;: true&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;-&lt;b&gt;searchValue&lt;/b&gt;: string&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- productList: Array&amp;lt;&lt;b&gt;&lt;u&gt;Product&lt;/u&gt;&lt;/b&gt;&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=9;fontColor=#100f0f;fillColor=#7D7D7D;" parent="77" vertex="1">
+                    <mxGeometry x="180" y="140" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;fontSize=9;fontColor=#100f0f;" parent="77" source="78" target="81" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;User: {&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;id: uid,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;name: string,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="77">
+                    <mxGeometry x="20" y="30" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;Product: {&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;id: uid,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;name: string,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;description: string,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;price: number,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;image: string,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#fdfcfc&quot;&gt;isFavorite:&lt;/font&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#ffffff&quot;&gt; boolean,&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 5px;&quot; color=&quot;#ffffff&quot;&gt;}&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="77">
+                    <mxGeometry x="265" y="50" width="50" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font color=&quot;#fdfcfc&quot;&gt;Menu: {&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font color=&quot;#fdfcfc&quot;&gt;- label: string&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font color=&quot;#fdfcfc&quot;&gt;- level: number&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 5px;&quot;&gt;&lt;font color=&quot;#fdfcfc&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="77">
+                    <mxGeometry x="20" y="85" width="50" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
